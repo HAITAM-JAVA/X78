@@ -1,5 +1,7 @@
 import time
 import sys
+import os 
+os.system("clear")
 print("----------------Hack Wifi 🕷----------")
 wifi_name = input ("Enter Wifi Name: ")
 print("Wifi analayze :", wifi_name)
