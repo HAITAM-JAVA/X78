@@ -2,7 +2,7 @@ import time
 import sys
 import os 
 os.system("clear")
-print("----------------Hack Wifi 🕷----------")
+print("=========================HAITAM===============")
 wifi_name = input ("Enter Wifi Name: ")
 print("Wifi analayze :", wifi_name)
 connection = int(True)
@@ -36,3 +36,4 @@ Join = input('are you ready?')
 if Join == 'yes' or 'Yes':
   print("ok let's do it")
   print("1234567890")
+sys.exit(1)
